@@ -1,0 +1,4 @@
+[
+  { "id": 1, "question": "Quelle est la capitale de la France ?", "reponse": "Paris" },
+  { "id": 2, "question": "2 + 2 = ?", "reponse": "4" }
+]
