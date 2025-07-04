@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('http://localhost:3000/questions')
+    fetch('https://quiz-app-yggd.onrender.com')
         .then(response => response.json())
         .then(questions => {
             const container = document.getElementById('questions');
